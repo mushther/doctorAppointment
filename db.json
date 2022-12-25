@@ -1,9 +1,22 @@
 {
-  "posts": [
-    { "id": 1, "title": "json-server", "author": "typicode" }
+  "user": [
+    {
+      "id": 1,
+      "username": "Rahul",
+      "age": 25,
+      "mobile": 9966884520,
+      "status": false,
+      "description": "ill from last two days and I'm not feel good and some pain in head"
+    }
   ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 }
-  ],
-  "profile": { "name": "typicode" }
+  "doctor": [
+    {
+      "id": 1,
+      "doctorname": "Dr Sachin Burman",
+      "eduction": "MBBS BHMD SDDL from London",
+      "doctorfee": "500",
+      "address": "Colony No.4 New Delhi",
+      "appointment": 0
+    }
+  ]
 }
