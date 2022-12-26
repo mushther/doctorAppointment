@@ -2,9 +2,41 @@
   "user": [
     {
       "id": 1,
-      "username": "Rahul",
-      "age": 25,
-      "mobile": 9966884520,
+      "username": "Rahul Jogi",
+      "age": 22,
+      "mobile": 9966884525,
+      "status": false,
+      "description": "ill from last two days and I'm not feel good and some pain in head"
+    },
+    {
+      "id": 2,
+      "username": "Pirya Rai",
+      "age": 15,
+      "mobile": 9966889864,
+      "status": false,
+      "description": "ill from last two days and I'm not feel good and some pain in head"
+    },
+    {
+      "id": 3,
+      "username": "Sony Kumari",
+      "age": 21,
+      "mobile": 9966889683,
+      "status": false,
+      "description": "ill from last two days and I'm not feel good and some pain in head"
+    },
+    {
+      "id": 4,
+      "username": "Sanjeev Tangle",
+      "age": 27,
+      "mobile": 9568972520,
+      "status": false,
+      "description": "ill from last two days and I'm not feel good and some pain in head"
+    },
+    {
+      "id": 5,
+      "username": "Ali Yani",
+      "age": 35,
+      "mobile": 9966895620,
       "status": false,
       "description": "ill from last two days and I'm not feel good and some pain in head"
     }
@@ -12,10 +44,42 @@
   "doctor": [
     {
       "id": 1,
+      "doctorname": "Dr Lalu Baba",
+      "eduction": "MBBS BHMD SDDL from Ukrain",
+      "doctorfee": "400",
+      "address": "Colony No.4 New Patna",
+      "appointment": 0
+    },
+    {
+      "id": 2,
       "doctorname": "Dr Sachin Burman",
-      "eduction": "MBBS BHMD SDDL from London",
+      "eduction": "MBBS BHMD SDDL from Turki",
+      "doctorfee": "600",
+      "address": "Colony No.5 New Delhi",
+      "appointment": 0
+    },
+    {
+      "id": 3,
+      "doctorname": "Dr Aryan Kumar",
+      "eduction": "MBBS BHMD SDDL from Japan",
       "doctorfee": "500",
-      "address": "Colony No.4 New Delhi",
+      "address": "Colony No.8 Mumbai",
+      "appointment": 0
+    },
+    {
+      "id": 4,
+      "doctorname": "Dr Hasmat Yni",
+      "eduction": "MBBS BHMD SDDL from London",
+      "doctorfee": "700",
+      "address": "Colony No.7 Kolkata",
+      "appointment": 0
+    },
+    {
+      "id": 5,
+      "doctorname": "Dr Hussain Ali",
+      "eduction": "MBBS BHMD SDDL from Mumbai",
+      "doctorfee": "900",
+      "address": "Colony No.9 Chandigarh",
       "appointment": 0
     }
   ]
