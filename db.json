@@ -81,6 +81,30 @@
       "doctorfee": "900",
       "address": "Colony No.9 Chandigarh",
       "appointment": 0
+    },
+    {
+      "id": 5,
+      "doctorname": "Dr Annad Singh",
+      "eduction": "SBTC BHMD SDDL from Mumbai",
+      "doctorfee": "500",
+      "address": "Colony No.9 Sonpur",
+      "appointment": 0
+    },
+    {
+      "id": 5,
+      "doctorname": "Dr Jonh Rana",
+      "eduction": "MBBS BHMD SDDL from Thane",
+      "doctorfee": "800",
+      "address": "Colony No.9 Pune",
+      "appointment": 0
+    },
+    {
+      "id": 5,
+      "doctorname": "Dr Singth Yatri",
+      "eduction": "MBBS BHMD SDDL from Kota",
+      "doctorfee": "900",
+      "address": "Colony No.9 Patna",
+      "appointment": 0
     }
   ]
 }
