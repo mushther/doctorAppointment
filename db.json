@@ -13,7 +13,7 @@
       "username": "Pirya Rai",
       "age": 15,
       "mobile": 9966889864,
-      "status": false,
+      "status": true,
       "description": "ill from last two days and I'm not feel good and some pain in head"
     },
     {
@@ -37,7 +37,7 @@
       "username": "Ali Yani",
       "age": 35,
       "mobile": 9966895620,
-      "status": false,
+      "status": true,
       "description": "ill from last two days and I'm not feel good and some pain in head"
     }
   ],
@@ -64,7 +64,7 @@
       "eduction": "MBBS BHMD SDDL from Japan",
       "doctorfee": "500",
       "address": "Colony No.8 Mumbai",
-      "appointment": 0
+      "appointment": 11
     },
     {
       "id": 4,
@@ -88,7 +88,7 @@
       "eduction": "SBTC BHMD SDDL from Mumbai",
       "doctorfee": "500",
       "address": "Colony No.9 Sonpur",
-      "appointment": 0
+      "appointment": 11
     },
     {
       "id": 5,
