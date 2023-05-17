@@ -249,6 +249,16 @@
       "password":"hony11",
       "image":"",
       "bookAppointment":[1,2,3,4]
+    },
+    {
+      "id":2,
+      "name":"Tony Jhoni",
+      "userId":"Tony65",
+      "mobile":9669969789,
+      "email":"Tony11@gmail.com",
+      "password":"Tony11",
+      "image":"",
+      "bookAppointment":[1,2,3,4]
     }
   ]
 }
