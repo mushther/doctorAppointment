@@ -239,5 +239,15 @@
       "img3": "https://img9.hkrtcdn.com/21214/prd_2121308-MuscleBlaze-High-Protein-Peanut-Butter-1-kg-Dark-Chocolate-Creamy-Fit-Pack_o.jpg"
     }
   ],
-  "loginData":[]
+  "loginData":[
+    {
+      "id":1,
+      "name":"Hony Mony",
+      "userId":"hony65",
+      "mobile":9669969691,
+      "email":"hony11@gmail.com",
+      "image":"",
+      "bookAppointment":[1,2,3,4]
+    }
+  ]
 }
