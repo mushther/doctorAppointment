@@ -240,6 +240,14 @@
     }
   ],
   "loginData":[
-  
+    {
+      "id":1,
+      "username:"Mushther Hussain",
+      "userId":"hussain11",
+      "mobile":8699524558
+      "email":"hussain@gmail.com",
+      "password":"hussain@11",
+      "image":""
+    }
   ]
 }
