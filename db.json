@@ -242,8 +242,8 @@
   "loginData":[
     {
       "id":1,
-      "name:"Mushther Hussain",
       "userId":"hussain11",
+      "username":"Mushther Hussain"
       "mobile":8699524558,
       "email":"hussain@gmail.com",
       "password":"hussain@11",
